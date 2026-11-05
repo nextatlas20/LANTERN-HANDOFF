@@ -1,0 +1,67 @@
+{
+  "review_ends_at": "2099-02-14T20:00:00Z",
+  "summary": {
+    "cues": 5,
+    "valid_events": 16,
+    "complete": 2,
+    "live": 3,
+    "planned": 0
+  },
+  "cues": [
+    {
+      "cue_id": "L-021",
+      "stage": "Garden",
+      "planned_start": "19:18",
+      "priority": 1,
+      "valid_events": 3,
+      "last_event": "FINISHED",
+      "last_reported_at": "2099-02-14T19:24:00Z",
+      "last_operator": "Mira",
+      "status": "COMPLETE"
+    },
+    {
+      "cue_id": "L-014",
+      "stage": "Harbor",
+      "planned_start": "19:10",
+      "priority": 2,
+      "valid_events": 2,
+      "last_event": "STARTED",
+      "last_reported_at": "2099-02-14T19:11:00Z",
+      "last_operator": "Noor",
+      "status": "LIVE"
+    },
+    {
+      "cue_id": "L-032",
+      "stage": "Harbor",
+      "planned_start": "19:27",
+      "priority": 3,
+      "valid_events": 4,
+      "last_event": "STARTED",
+      "last_reported_at": "2099-02-14T19:31:00Z",
+      "last_operator": "Ivo",
+      "status": "LIVE"
+    },
+    {
+      "cue_id": "L-047",
+      "stage": "Roof",
+      "planned_start": "19:35",
+      "priority": 4,
+      "valid_events": 3,
+      "last_event": "FINISHED",
+      "last_reported_at": "2099-02-14T19:40:00Z",
+      "last_operator": "Sol",
+      "status": "COMPLETE"
+    },
+    {
+      "cue_id": "L-055",
+      "stage": "Garden",
+      "planned_start": "19:42",
+      "priority": 5,
+      "valid_events": 4,
+      "last_event": "STARTED",
+      "last_reported_at": "2099-02-14T19:46:00Z",
+      "last_operator": "Ada",
+      "status": "LIVE"
+    }
+  ]
+}
